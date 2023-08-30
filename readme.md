@@ -6,8 +6,6 @@
 
 ![20230823_232951](https://github.com/Ampersand-Alexander/ModernThroneKB/assets/60246286/61064b7b-a118-470f-8da4-f721eed6c0a4)
 
-![handwired/modernthrone](imgur.com image replace me!)
-
 *Hello 👋, this is the first handwired keyboard I have created the ModernThrone. It is a 69 key layout promoting a solenoid. It uses the RP2040 microcontroller. QMK *
 
 * Keyboard Maintainer: [Alexander Tran](https://github.com/FullyAscended)
